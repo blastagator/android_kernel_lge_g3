@@ -19,8 +19,8 @@
 #include <linux/platform_device.h>
 #include <linux/workqueue.h>
 #include <linux/sched.h>
-#include <soc/qcom/sysmon.h>
 #include <mach/gpiomux.h>
+#include <mach/sysmon.h>
 #include "esoc.h"
 
 #define MDM_PBLRDY_CNT			20
