@@ -20,7 +20,7 @@
 #include <linux/workqueue.h>
 #include <linux/sched.h>
 #include <mach/gpiomux.h>
-#include <mach/sysmon.h>
+#include "sysmon.h"
 #include "esoc.h"
 
 #define MDM_PBLRDY_CNT			20
